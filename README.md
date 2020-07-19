@@ -1,2 +1,4 @@
-# ToDo
-A simple to do list made with MongoDB.
+# ToDo-List
+
+This is a basic todolist using mongoDB. 
+This is my first database project
